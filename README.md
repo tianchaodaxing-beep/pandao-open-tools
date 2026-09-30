@@ -1,6 +1,6 @@
 # PANDAO 开源业务工具
 
-六个独立的本机工具，适用于电商、贸易、服务业及企业日常业务。韩国电商是使用场景之一。
+12 个独立的本机工具，适用于电商、贸易、服务业及企业日常业务。韩国电商是使用场景之一。
 
 [打开工具目录](https://tianchaodaxing-beep.github.io/pandao-open-tools/)
 
@@ -12,6 +12,12 @@
 | [表格清洗与对账工具](https://github.com/tianchaodaxing-beep/pandao-reconcile) | 清洗重复行，匹配两份表格并导出差异。 | [打开](https://tianchaodaxing-beep.github.io/pandao-reconcile/) | [下载](https://github.com/tianchaodaxing-beep/pandao-reconcile/releases/latest) |
 | [会议与任务整理工具](https://github.com/tianchaodaxing-beep/pandao-meeting) | 提取会议行动项，编辑负责人和截止日期后导出。 | [打开](https://tianchaodaxing-beep.github.io/pandao-meeting/) | [下载](https://github.com/tianchaodaxing-beep/pandao-meeting/releases/latest) |
 | [企业资料检索工具](https://github.com/tianchaodaxing-beep/pandao-knowledge) | 检索本机资料，显示原文、文件名和行号。 | [打开](https://tianchaodaxing-beep.github.io/pandao-knowledge/) | [下载](https://github.com/tianchaodaxing-beep/pandao-knowledge/releases/latest) |
+| [应收账款账龄助手](https://github.com/tianchaodaxing-beep/pandao-receivables) | 按统计日期查看未收金额、逾期账龄和客户余额。 | [打开](https://tianchaodaxing-beep.github.io/pandao-receivables/) | [下载](https://github.com/tianchaodaxing-beep/pandao-receivables/releases/latest) |
+| [现金流预算工具](https://github.com/tianchaodaxing-beep/pandao-cashflow) | 编排月度收入和支出，查看月底余额与资金缺口。 | [打开](https://tianchaodaxing-beep.github.io/pandao-cashflow/) | [下载](https://github.com/tianchaodaxing-beep/pandao-cashflow/releases/latest) |
+| [供应商评分比较器](https://github.com/tianchaodaxing-beep/pandao-suppliers) | 设置价格、质量、交期和服务权重，比较供应商评分。 | [打开](https://tianchaodaxing-beep.github.io/pandao-suppliers/) | [下载](https://github.com/tianchaodaxing-beep/pandao-suppliers/releases/latest) |
+| [项目工期排程工具](https://github.com/tianchaodaxing-beep/pandao-schedule) | 录入工作天数和前置任务，生成日期排程与关键任务清单。 | [打开](https://tianchaodaxing-beep.github.io/pandao-schedule/) | [下载](https://github.com/tianchaodaxing-beep/pandao-schedule/releases/latest) |
+| [工时与服务费用计算器](https://github.com/tianchaodaxing-beep/pandao-timesheet) | 记录人员与项目工时，汇总可计费工时和服务费用。 | [打开](https://tianchaodaxing-beep.github.io/pandao-timesheet/) | [下载](https://github.com/tianchaodaxing-beep/pandao-timesheet/releases/latest) |
+| [客户转化分析器](https://github.com/tianchaodaxing-beep/pandao-funnel) | 按同一统计范围录入客户阶段人数，比较转化与成交金额。 | [打开](https://tianchaodaxing-beep.github.io/pandao-funnel/) | [下载](https://github.com/tianchaodaxing-beep/pandao-funnel/releases/latest) |
 
 所有工具均可下载后在浏览器运行，无需配置付费接口。表格导入、计算与文字检索在本机完成。演示资料为虚构示例；实际使用前请核对输入与结果。
 
