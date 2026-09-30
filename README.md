@@ -26,3 +26,9 @@
 ## 反馈与定制需求
 
 请在对应项目的问题区提出使用问题或定制需求，并说明行业、现有输入格式及期望结果。公开反馈请使用演示资料，不提交客户资料和账号凭据。
+
+## 商品批量发布
+
+[下载并使用](https://tianchaodaxing-beep.github.io/pandao-product-publisher/) · [源码与说明](https://github.com/tianchaodaxing-beep/pandao-product-publisher)
+
+支持 Coupang 韩国站与 WooCommerce，读取商品资料、自动上传图片、填写商品和规格，保存草稿或提交发布后回读结果。需要连接店铺与 WordPress 图片库。
