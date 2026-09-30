@@ -1,0 +1,28 @@
+# PANDAO open-source tools
+
+[简体中文](README.md) · English
+
+16 tools and one project directory, with Chinese and English documentation. Browser tools run online or locally after download. Automation tools require installation according to their individual guides.
+
+[Open the English directory](https://tianchaodaxing-beep.github.io/pandao-open-tools/?lang=en)
+
+| Tool | Purpose | Usage | Download |
+|---|---|---|---|
+| [PANDAO batch web queries](https://github.com/tianchaodaxing-beep/pandao-request-batch) | Turn captured GET queries and a parameter table into paginated, resumable batch reads. | Download and run locally | [Download](https://github.com/tianchaodaxing-beep/pandao-request-batch/releases/latest) |
+| [PANDAO fault locator](https://github.com/tianchaodaxing-beep/pandao-fault-locator) | Reduce records and fields while checking that the same program failure remains reproducible. | Download and run locally | [Download](https://github.com/tianchaodaxing-beep/pandao-fault-locator/releases/latest) |
+| [PANDAO reproduction toolkit](https://github.com/tianchaodaxing-beep/pandao-reprokit) | A Picire-based workflow for structured fault reduction and independent reproduction. | Download and run locally | [Download](https://github.com/tianchaodaxing-beep/pandao-reprokit/releases/latest) |
+| [PANDAO product publisher](https://github.com/tianchaodaxing-beep/pandao-product-publisher) | Prepare images and publish product data to WooCommerce or submit it to Coupang. | Download and run locally | [Download](https://github.com/tianchaodaxing-beep/pandao-product-publisher/releases/latest) |
+| [Customer funnel analyzer](https://github.com/tianchaodaxing-beep/pandao-funnel) | Compare customer stage conversion and won value within one reporting scope. | [Open](https://tianchaodaxing-beep.github.io/pandao-funnel/?lang=en) | [Download](https://github.com/tianchaodaxing-beep/pandao-funnel/releases/latest) |
+| [Timesheet and service fee calculator](https://github.com/tianchaodaxing-beep/pandao-timesheet) | Record time by person and project, and summarize billable hours and service fees. | [Open](https://tianchaodaxing-beep.github.io/pandao-timesheet/?lang=en) | [Download](https://github.com/tianchaodaxing-beep/pandao-timesheet/releases/latest) |
+| [Project schedule planner](https://github.com/tianchaodaxing-beep/pandao-schedule) | Schedule task dates and identify critical tasks using working days and predecessors. | [Open](https://tianchaodaxing-beep.github.io/pandao-schedule/?lang=en) | [Download](https://github.com/tianchaodaxing-beep/pandao-schedule/releases/latest) |
+| [Supplier score comparison](https://github.com/tianchaodaxing-beep/pandao-suppliers) | Weight price, quality, delivery and service to compare suppliers. | [Open](https://tianchaodaxing-beep.github.io/pandao-suppliers/?lang=en) | [Download](https://github.com/tianchaodaxing-beep/pandao-suppliers/releases/latest) |
+| [Cash flow budget planner](https://github.com/tianchaodaxing-beep/pandao-cashflow) | Plan monthly receipts and payments, and review balances and shortfalls. | [Open](https://tianchaodaxing-beep.github.io/pandao-cashflow/?lang=en) | [Download](https://github.com/tianchaodaxing-beep/pandao-cashflow/releases/latest) |
+| [Receivables aging assistant](https://github.com/tianchaodaxing-beep/pandao-receivables) | Review outstanding amounts, overdue aging and customer balances as of a selected date. | [Open](https://tianchaodaxing-beep.github.io/pandao-receivables/?lang=en) | [Download](https://github.com/tianchaodaxing-beep/pandao-receivables/releases/latest) |
+| [Local document search](https://github.com/tianchaodaxing-beep/pandao-knowledge) | Search local text documents and view original text, file names and line numbers. | [Open](https://tianchaodaxing-beep.github.io/pandao-knowledge/?lang=en) | [Download](https://github.com/tianchaodaxing-beep/pandao-knowledge/releases/latest) |
+| [Meeting action organizer](https://github.com/tianchaodaxing-beep/pandao-meeting) | Extract action items from notes, edit owners and due dates, then export. | [Open](https://tianchaodaxing-beep.github.io/pandao-meeting/?lang=en) | [Download](https://github.com/tianchaodaxing-beep/pandao-meeting/releases/latest) |
+| [Spreadsheet cleanup and reconciliation](https://github.com/tianchaodaxing-beep/pandao-reconcile) | Clean duplicate rows, match two spreadsheets and export differences. | [Open](https://tianchaodaxing-beep.github.io/pandao-reconcile/?lang=en) | [Download](https://github.com/tianchaodaxing-beep/pandao-reconcile/releases/latest) |
+| [Inventory and replenishment assistant](https://github.com/tianchaodaxing-beep/pandao-inventory) | Calculate replenishment from sales, stock and lead time. | [Open](https://tianchaodaxing-beep.github.io/pandao-inventory/?lang=en) | [Download](https://github.com/tianchaodaxing-beep/pandao-inventory/releases/latest) |
+| [Quote generator](https://github.com/tianchaodaxing-beep/pandao-quote) | Edit quote items, discounts and tax, then print or export a quote. | [Open](https://tianchaodaxing-beep.github.io/pandao-quote/?lang=en) | [Download](https://github.com/tianchaodaxing-beep/pandao-quote/releases/latest) |
+| [Cost and profit calculator](https://github.com/tianchaodaxing-beep/pandao-profit) | Calculate unit and batch profit, and compare price scenarios. | [Open](https://tianchaodaxing-beep.github.io/pandao-profit/?lang=en) | [Download](https://github.com/tianchaodaxing-beep/pandao-profit/releases/latest) |
+
+See each project for input formats, requirements, supported scope and licensing. Demo data is simulated and does not establish real customer results. Use fictional examples in public feedback; never post customer data or credentials.
