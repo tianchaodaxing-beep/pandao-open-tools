@@ -2,12 +2,13 @@
 
 [简体中文](README.md) · English
 
-19 tools and one project directory, with Chinese and English documentation. Browser tools run online or locally after download. Automation tools require installation according to their individual guides.
+20 tools and one project directory, with Chinese and English documentation. Browser tools run online or locally after download. Automation tools require installation according to their individual guides.
 
 [Open the English directory](https://tianchaodaxing-beep.github.io/pandao-open-tools/?lang=en)
 
 | Tool | Purpose | Usage | Download |
 |---|---|---|---|
+| [Route Photo Pack](https://github.com/tianchaodaxing-beep/pandao-route-photo-pack) | Create route station photo packets, printable registers and photo coverage lists locally. | [Working example](https://tianchaodaxing-beep.github.io/pandao-route-photo-pack/) | [Download](https://github.com/tianchaodaxing-beep/pandao-route-photo-pack/releases/tag/v0.1.0) |
 | [Caption Conform](https://github.com/tianchaodaxing-beep/pandao-caption-conform) | Carry reviewed captions through a revised video edit, with local batch outputs and a review list. | [Working example](https://tianchaodaxing-beep.github.io/pandao-caption-conform/) | [Download](https://github.com/tianchaodaxing-beep/pandao-caption-conform/releases/tag/v0.1.0) |
 | [Revision Inbox](https://github.com/tianchaodaxing-beep/pandao-revision-inbox) | Match pages across PDF folders and create a review packet with visual changes. | [Sample results](https://tianchaodaxing-beep.github.io/pandao-revision-inbox/) | [Download](https://github.com/tianchaodaxing-beep/pandao-revision-inbox/releases/tag/v0.1.0) |
 | [Delivery pack](https://github.com/tianchaodaxing-beep/pandao-delivery-pack) | Select versions, check completeness and build project handover packages. | Browser or local commands | [Download](https://github.com/tianchaodaxing-beep/pandao-delivery-pack/releases/tag/v0.1.0) |
