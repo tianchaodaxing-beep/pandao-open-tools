@@ -1,3 +1,7 @@
+# 1.0.12
+
+Update Artwork Code Audit downloads to v0.1.1 with fixed English file-selection controls. Existing directory entries and language switching are preserved.
+
 # 1.0.11
 
 Add Artwork Code Audit with an executable seven-page packaging example, batch GTIN checks, source and download links. The directory lists 22 tools and one project directory.
