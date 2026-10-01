@@ -2,12 +2,13 @@
 
 简体中文 · [English](README.en.md)
 
-17 个工具与一个项目目录，支持中文和英文。网页工具可直接使用，也可下载后在本机运行；自动执行工具需要按各自说明安装。
+18 个工具与一个项目目录，支持中文和英文。网页工具可直接使用，也可下载后在本机运行；自动执行工具需要按各自说明安装。
 
 [打开工具目录](https://tianchaodaxing-beep.github.io/pandao-open-tools/)
 
 | 工具 | 用途 | 使用方式 | 下载 |
 |---|---|---|---|
+| [Revision Inbox](https://github.com/tianchaodaxing-beep/pandao-revision-inbox) | Match pages across PDF folders and create a review packet with visual changes. | [Sample results](https://tianchaodaxing-beep.github.io/pandao-revision-inbox/) | [Download](https://github.com/tianchaodaxing-beep/pandao-revision-inbox/releases/tag/v0.1.0) |
 | [交付包自动组装](https://github.com/tianchaodaxing-beep/pandao-delivery-pack) | 按清单挑选版本、检查缺件与冲突，批量生成各项目交付包。 | 网页使用或本机命令 | [下载](https://github.com/tianchaodaxing-beep/pandao-delivery-pack/releases/tag/v0.1.0) |
 | [网页批量查询](https://github.com/tianchaodaxing-beep/pandao-request-batch) | 将网页读取请求转为参数表驱动的批量查询，支持分页、续跑、去重及导出核对，提供本机中文页面。 | 下载后在本机运行 | [下载](https://github.com/tianchaodaxing-beep/pandao-request-batch/releases/latest) |
 | [故障定位工具](https://github.com/tianchaodaxing-beep/pandao-fault-locator) | 自动缩减复现故障所需的记录和字段，支持文本、CSV、JSON、Excel，生成可重复核对的样本与中文结论。 | 下载后在本机运行 | [下载](https://github.com/tianchaodaxing-beep/pandao-fault-locator/releases/latest) |

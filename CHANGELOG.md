@@ -1,3 +1,7 @@
+# 1.0.7
+
+Add Revision Inbox with interactive sample results, local PDF folder review, source and download links. The directory lists eighteen tools and one project directory.
+
 # 1.0.6
 
 Add a contact email for project enquiries and collaboration: [tianchaodaxing@gmail.com](mailto:tianchaodaxing@gmail.com).
