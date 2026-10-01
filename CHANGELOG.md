@@ -1,3 +1,7 @@
+# 1.0.11
+
+Add Artwork Code Audit with an executable seven-page packaging example, batch GTIN checks, source and download links. The directory lists 22 tools and one project directory.
+
 # 1.0.10
 
 Add Backup Audio Rescue with a working spoken audio example, local gap recovery, source and download links. The directory lists twenty-one tools and one project directory.

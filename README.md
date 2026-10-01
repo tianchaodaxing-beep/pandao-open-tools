@@ -2,12 +2,13 @@
 
 简体中文 · [English](README.en.md)
 
-21 个工具与一个项目目录，支持中文和英文。网页工具可直接使用，也可下载后在本机运行；自动执行工具需要按各自说明安装。
+22 个工具与一个项目目录，支持中文和英文。网页工具可直接使用，也可下载后在本机运行；自动执行工具需要按各自说明安装。
 
 [打开工具目录](https://tianchaodaxing-beep.github.io/pandao-open-tools/)
 
 | 工具 | 用途 | 使用方式 | 下载 |
 |---|---|---|---|
+| [Artwork Code Audit](https://github.com/tianchaodaxing-beep/pandao-artwork-code-audit) | Audit product identities and code agreement across packaging proof batches. | [Working example](https://tianchaodaxing-beep.github.io/pandao-artwork-code-audit/) | [Download](https://github.com/tianchaodaxing-beep/pandao-artwork-code-audit/releases/tag/v0.1.0) |
 | [Backup Audio Rescue](https://github.com/tianchaodaxing-beep/pandao-backup-audio-rescue) | Recover digital-silence gaps from a backup recording with timing alignment and listening review. | [Working example](https://tianchaodaxing-beep.github.io/pandao-backup-audio-rescue/) | [Download](https://github.com/tianchaodaxing-beep/pandao-backup-audio-rescue/releases/tag/v0.1.0) |
 | [Route Photo Pack](https://github.com/tianchaodaxing-beep/pandao-route-photo-pack) | Create route station photo packets, printable registers and photo coverage lists locally. | [Working example](https://tianchaodaxing-beep.github.io/pandao-route-photo-pack/) | [Download](https://github.com/tianchaodaxing-beep/pandao-route-photo-pack/releases/tag/v0.1.0) |
 | [Caption Conform](https://github.com/tianchaodaxing-beep/pandao-caption-conform) | Carry reviewed captions through a revised video edit, with local batch outputs and a review list. | [Working example](https://tianchaodaxing-beep.github.io/pandao-caption-conform/) | [Download](https://github.com/tianchaodaxing-beep/pandao-caption-conform/releases/tag/v0.1.0) |
