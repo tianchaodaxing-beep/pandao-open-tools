@@ -27,3 +27,7 @@
 | [成本与利润测算器](https://github.com/tianchaodaxing-beep/pandao-profit) | 单品测算、批量表格计算与价格情景比较。 | [打开](https://tianchaodaxing-beep.github.io/pandao-profit/) | [下载](https://github.com/tianchaodaxing-beep/pandao-profit/releases/latest) |
 
 各项目的输入格式、支持范围、运行条件和许可证见对应说明。演示资料为模拟数据，不代表真实客户结果。公开反馈请使用演示资料，不提交客户资料或账号凭据。
+
+## Contact
+
+Project enquiries and collaboration: [tianchaodaxing@gmail.com](mailto:tianchaodaxing@gmail.com)

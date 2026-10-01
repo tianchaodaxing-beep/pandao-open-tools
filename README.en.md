@@ -27,3 +27,7 @@
 | [Cost and profit calculator](https://github.com/tianchaodaxing-beep/pandao-profit) | Calculate unit and batch profit, and compare price scenarios. | [Open](https://tianchaodaxing-beep.github.io/pandao-profit/?lang=en) | [Download](https://github.com/tianchaodaxing-beep/pandao-profit/releases/latest) |
 
 See each project for input formats, requirements, supported scope and licensing. Demo data is simulated and does not establish real customer results. Use fictional examples in public feedback; never post customer data or credentials.
+
+## Contact
+
+Project enquiries and collaboration: [tianchaodaxing@gmail.com](mailto:tianchaodaxing@gmail.com)

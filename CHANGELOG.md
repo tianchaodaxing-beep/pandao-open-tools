@@ -1,3 +1,7 @@
+# 1.0.6
+
+Add a contact email for project enquiries and collaboration: [tianchaodaxing@gmail.com](mailto:tianchaodaxing@gmail.com).
+
 # 1.0.5
 
 目录切换中英文时，交付包工具入口跟随当前语言。
