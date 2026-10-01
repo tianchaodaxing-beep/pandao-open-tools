@@ -1,3 +1,9 @@
+# 1.0.4
+
+新增交付包自动组装入口，提供中文和英文页面、源码和下载。目录现有十七个工具。
+
+Added Delivery Pack with Chinese and English pages, source and download links. The directory now lists seventeen tools.
+
 # 1.0.3
 
 ## 简体中文
