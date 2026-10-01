@@ -1,3 +1,7 @@
+# 1.0.10
+
+Add Backup Audio Rescue with a working spoken audio example, local gap recovery, source and download links. The directory lists twenty-one tools and one project directory.
+
 # 1.0.9
 
 Add Route Photo Pack with a working route photo example, local batch processing, source and download links. The directory lists twenty tools and one project directory.

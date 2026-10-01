@@ -2,12 +2,13 @@
 
 [简体中文](README.md) · English
 
-20 tools and one project directory, with Chinese and English documentation. Browser tools run online or locally after download. Automation tools require installation according to their individual guides.
+21 tools and one project directory, with Chinese and English documentation. Browser tools run online or locally after download. Automation tools require installation according to their individual guides.
 
 [Open the English directory](https://tianchaodaxing-beep.github.io/pandao-open-tools/?lang=en)
 
 | Tool | Purpose | Usage | Download |
 |---|---|---|---|
+| [Backup Audio Rescue](https://github.com/tianchaodaxing-beep/pandao-backup-audio-rescue) | Recover digital-silence gaps from a backup recording with timing alignment and listening review. | [Working example](https://tianchaodaxing-beep.github.io/pandao-backup-audio-rescue/) | [Download](https://github.com/tianchaodaxing-beep/pandao-backup-audio-rescue/releases/tag/v0.1.0) |
 | [Route Photo Pack](https://github.com/tianchaodaxing-beep/pandao-route-photo-pack) | Create route station photo packets, printable registers and photo coverage lists locally. | [Working example](https://tianchaodaxing-beep.github.io/pandao-route-photo-pack/) | [Download](https://github.com/tianchaodaxing-beep/pandao-route-photo-pack/releases/tag/v0.1.0) |
 | [Caption Conform](https://github.com/tianchaodaxing-beep/pandao-caption-conform) | Carry reviewed captions through a revised video edit, with local batch outputs and a review list. | [Working example](https://tianchaodaxing-beep.github.io/pandao-caption-conform/) | [Download](https://github.com/tianchaodaxing-beep/pandao-caption-conform/releases/tag/v0.1.0) |
 | [Revision Inbox](https://github.com/tianchaodaxing-beep/pandao-revision-inbox) | Match pages across PDF folders and create a review packet with visual changes. | [Sample results](https://tianchaodaxing-beep.github.io/pandao-revision-inbox/) | [Download](https://github.com/tianchaodaxing-beep/pandao-revision-inbox/releases/tag/v0.1.0) |
