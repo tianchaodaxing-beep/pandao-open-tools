@@ -1,3 +1,9 @@
+# 1.0.5
+
+目录切换中英文时，交付包工具入口跟随当前语言。
+
+Delivery Pack links follow the language selected in the directory.
+
 # 1.0.4
 
 新增交付包自动组装入口，提供中文和英文页面、源码和下载。目录现有十七个工具。
