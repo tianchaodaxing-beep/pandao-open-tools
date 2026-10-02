@@ -1,3 +1,7 @@
+# 1.0.13
+
+Add BCF Link Rescue with a working local sample, preserved issue history, IFC command line recovery, source and installation downloads. The directory lists 23 tools and one project directory.
+
 # 1.0.12
 
 Update Artwork Code Audit downloads to v0.1.1 with fixed English file-selection controls. Existing directory entries and language switching are preserved.

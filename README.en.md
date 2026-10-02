@@ -2,12 +2,13 @@
 
 [简体中文](README.md) · English
 
-22 tools and one project directory, with Chinese and English documentation. Browser tools run online or locally after download. Automation tools require installation according to their individual guides.
+23 tools and one project directory, with Chinese and English documentation. Browser tools run online or locally after download. Automation tools require installation according to their individual guides.
 
 [Open the English directory](https://tianchaodaxing-beep.github.io/pandao-open-tools/?lang=en)
 
 | Tool | Purpose | Usage | Download |
 |---|---|---|---|
+| [BCF Link Rescue](https://github.com/tianchaodaxing-beep/pandao-bcf-link-rescue) | Recover BCF component links from two IFC versions with preserved viewpoints and a review packet. | [Working example](https://tianchaodaxing-beep.github.io/pandao-bcf-link-rescue/#demo) | [Download](https://github.com/tianchaodaxing-beep/pandao-bcf-link-rescue/releases/tag/v0.1.0) |
 | [Artwork Code Audit](https://github.com/tianchaodaxing-beep/pandao-artwork-code-audit) | Audit product identities and code agreement across packaging proof batches. | [Working example](https://tianchaodaxing-beep.github.io/pandao-artwork-code-audit/) | [Download](https://github.com/tianchaodaxing-beep/pandao-artwork-code-audit/releases/tag/v0.1.1) |
 | [Backup Audio Rescue](https://github.com/tianchaodaxing-beep/pandao-backup-audio-rescue) | Recover digital-silence gaps from a backup recording with timing alignment and listening review. | [Working example](https://tianchaodaxing-beep.github.io/pandao-backup-audio-rescue/) | [Download](https://github.com/tianchaodaxing-beep/pandao-backup-audio-rescue/releases/tag/v0.1.0) |
 | [Route Photo Pack](https://github.com/tianchaodaxing-beep/pandao-route-photo-pack) | Create route station photo packets, printable registers and photo coverage lists locally. | [Working example](https://tianchaodaxing-beep.github.io/pandao-route-photo-pack/) | [Download](https://github.com/tianchaodaxing-beep/pandao-route-photo-pack/releases/tag/v0.1.0) |
